@@ -5,3 +5,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #1C1E1F;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    color: #fff;
+    padding: 200px 0 20px 0;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.57);
+    letter-spacing: 2px;
+}
+
+.bg_design {
+    background-image: url('./images/bg-design.png');
+    width: 408px;
+    height: 373px;
+    position: absolute;
+    bottom: 0;
+}
