@@ -1,2 +1,2 @@
 # GitVersionControl
- Git assignments for CCS2700
+ Pull request workflows through GitHub
