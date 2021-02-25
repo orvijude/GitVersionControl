@@ -18,6 +18,14 @@ h1 {
     padding: 200px 0 20px 0;
 }
 
+h1::after {
+    content: '안녕';
+    position: absolute;
+    top: 0;
+    font-size: 200px;
+    color: rgba(255,255,255, 0.06);
+}
+
 p {
     color: rgba(255, 255, 255, 0.57);
     letter-spacing: 2px;
